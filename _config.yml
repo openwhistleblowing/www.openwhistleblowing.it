@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+title: OpenWhistleblowing
+description: Whistleblowing Software basato su GlobaLeaks
+show_downloads: false
+github:
+  repository_url: https://github.com/openwhistleblowing/openwhistleblowing
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
